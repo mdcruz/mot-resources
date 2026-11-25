@@ -1,3 +1,18 @@
+---
+url: https://www.ministryoftesting.com/chapters/devrel-chapter/events/what-is-devrel-developer-relations-explained-by-people-who-do-it
+date: 2026-12-03
+---
+
+# What Is DevRel? Developer Relations Explained by People Who Do It
+
+## Speakers: 
+- Marie Cruz
+- Chris Armstrong
+- Rachel Kibler
+- Dan Casely
+
+## Talking points
+
 **1. Introductions: what do we actually do?**
 
 - Introduce yourself, your role, and the developer community you work with.
